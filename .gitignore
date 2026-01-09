@@ -1,0 +1,12 @@
+/vendor/
+/node_modules/
+/.idea/
+/.vscode/
+/apps/api/vendor/
+/apps/api/storage/*.key
+/apps/api/.env
+.env
+.env.backup
+.phpunit.result.cache
+composer.lock
+package-lock.json
